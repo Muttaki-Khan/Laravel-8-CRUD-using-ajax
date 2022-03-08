@@ -1,4 +1,5 @@
 {
+    
     "name": "laravel/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
@@ -14,6 +15,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
+        "laravel/ui": "^3.4",
         "yajra/laravel-datatables-oracle": "^9.11"
     },
     "require-dev": {
